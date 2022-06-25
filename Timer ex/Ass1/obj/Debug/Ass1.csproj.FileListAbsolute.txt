@@ -1,0 +1,11 @@
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\bin\Debug\Ass1.exe.config
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\bin\Debug\Ass1.exe
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\bin\Debug\Ass1.pdb
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.csproj.AssemblyReference.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.Form1.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.Properties.Resources.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.csproj.GenerateResource.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.csproj.CoreCompileInputs.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.exe
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\CS223 Windows Programming\Lec Rep\Ass1\Ass1\obj\Debug\Ass1.pdb
