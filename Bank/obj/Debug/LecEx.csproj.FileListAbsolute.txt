@@ -1,0 +1,11 @@
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\bin\Debug\LecEx.exe.config
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\bin\Debug\LecEx.exe
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\bin\Debug\LecEx.pdb
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.Form1.resources
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.Properties.Resources.resources
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.exe
+C:\Users\lenovo\Documents\GitHub\C#\Lecture Ex\LectureExercises\Bank\obj\Debug\LecEx.pdb
